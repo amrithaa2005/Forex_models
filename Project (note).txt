@@ -1,0 +1,4 @@
+1. Timeframes - Primary: M15 (15 minutes)
+		Secondary: 1H (1 hour)
+2. Historical Depth - 2-3years of M15 data
+3. Required Columns - timestamp, open, high, low, close, volume (optional)
